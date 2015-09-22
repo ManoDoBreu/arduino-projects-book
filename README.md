@@ -1,9 +1,11 @@
 # Arduino Projects Book
-Source code of the projects from the Arduino Projects book
+Source code for the projects from the Arduino Projects book.
+You will not find the exact basic code from the book, instead, I try to refactor every line and explore new things in each project.
+I also try to comment every line of code to keep a note of what it does.
 
 ## Projects
 
-1. **Get to know your tools** an introduction to the basics
+1. ~~**Get to know your tools** an introduction to the basics~~ *(no code needed)*
 2. **Spaceship interface** design the control panel for your starship
 3. **Love-o-meter** measure how hot-blooded you are
 4. **Color mixing lamp** produce any color with a lamp that uses light as an input
