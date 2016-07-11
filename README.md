@@ -5,10 +5,10 @@ I also try to comment every line of code to keep a note of what it does.
 
 ## Projects
 
-1. ~~**Get to know your tools** an introduction to the basics~~ *(no code needed)*
-2. **Spaceship interface** design the control panel for your starship
-3. **Love-o-meter** measure how hot-blooded you are
-4. **Color mixing lamp** produce any color with a lamp that uses light as an input
+1. ~~**Get to know your tools** an introduction to the basics~~ *(no code needed)* :electric_plug: :bulb:
+2. **Spaceship interface** design the control panel for your starship :rocket: :space_invader:
+3. **Love-o-meter** measure how hot-blooded you are :heart: :syringe:
+4. **Color mixing lamp** produce any color with a lamp that uses light as an input :flashlight: :bulb:
 5. **Mood cue** clue people in to how you're doing
 6. **Light theremin** create a musical instrument you play by waving your hands
 7. **Keyboard instrument** play music and make some noise with this keyboard
