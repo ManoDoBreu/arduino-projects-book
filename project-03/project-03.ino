@@ -25,7 +25,7 @@ const int   checkInterval = 750;  // Time interval (in miliseconds) between read
  * The first pin is 2 and the las is 2+numOfLEDs
  */
 void setupLEDs(){
-  for(int pinNumber = 2; pinNumber < numOfLEDs+2; pinNumber++){
+  for(int pinNumber = firstLEDPin; pinNumber < numOfLEDs+firstLEDPin; pinNumber++){
     pinMode(pinNumber, OUTPUT);
     digitalWrite(pinNumber, LOW);
   }
