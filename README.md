@@ -9,7 +9,7 @@ I also try to comment every line of code to keep a note of what it does.
 2. **Spaceship interface** design the control panel for your starship :rocket: :space_invader:
 3. **Love-o-meter** measure how hot-blooded you are :heart: :syringe:
 4. **Color mixing lamp** produce any color with a lamp that uses light as an input :flashlight: :bulb:
-5. **Mood cue** clue people in to how you're doing
+5. **Mood cue** clue people in to how you're doing :vertical_traffic_light: :wrench:
 6. **Light theremin** create a musical instrument you play by waving your hands
 7. **Keyboard instrument** play music and make some noise with this keyboard
 8. **Digital hourglass** a light-up hourglass that can stop you from working too much
